@@ -21,7 +21,7 @@
             <div class="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
               <div class="pr-12">
                 <h1 class="text-white font-semibold text-4xl">
-                  PT. Blesindo Palma Cleon
+                  PT. Blesindo Palma Cemerlang
                 </h1>
                 <p class="mt-4 text-lg text-gray-300">
                   Your Security is Our Priority
